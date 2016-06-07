@@ -1,0 +1,1 @@
+This is the homework assignment for an intro to Git.
