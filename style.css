@@ -1,0 +1,53 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.logo {
+  margin-top:5px;
+}
+.navbar {
+  background-color: rgb(141,144,161);
+  height:50px;
+  width: 90%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.container {
+  min-height:400px;
+  background-color:rgb(238,240,243);
+  width: 90%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.brand {
+  font-size:25px;
+  margin-right: 20px;
+}
+.nav-links {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.login {
+  margin-left: 775px;
+}
+ol li {
+  font-size: 20px;
+}
+.subtext {
+  color: darkgrey;
+  font-size:15px;
+}
+.website {
+  color: darkgrey;
+  margin-left: 5px;
+  font-size:15px;
+}
+.footer {
+  border-top: solid black 2px;
+  background-color:rgb(238,240,243);
+  width: 90%;
+  margin-left:auto;
+  margin-right:auto;
+}
